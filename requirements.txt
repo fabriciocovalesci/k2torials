@@ -1,3 +1,4 @@
+lightkurve==1.11.0
 astropy==4.0.1.post1
 batman-package==2.4.6
 cycler==0.10.0
