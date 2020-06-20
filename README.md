@@ -4,6 +4,12 @@ Tutoriais para encontrar sinais de exoplanetas nos dados Kepler e K2, principalm
 
 Instale todas as dependências que estão no requirements.txt.
 
+- Execute o comando
+
+```
+$ pip3 install -r requirements.txt
+
+```
 ## Packages Required
 
 * numpy
