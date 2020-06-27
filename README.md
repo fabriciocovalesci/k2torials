@@ -13,9 +13,9 @@ $ pip3 install -r requirements.txt
 ## Packages Required
 
 * [numpy](https://numpy.org/)
-* scipy
-* matplotlib
-* astropy
+* [scipy](https://www.scipy.org/)
+* [matplotlib](https://matplotlib.org/)
+* [astropy](https://www.astropy.org/)
 * [BATMAN](https://astro.uchicago.edu/~kreidberg/batman/installation.html)
 * [LDTk](https://github.com/hpparvi/ldtk)
 * [PyKE](https://github.com/keplerGO/PyKE)
