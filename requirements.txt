@@ -14,3 +14,4 @@ scipy==1.4.1
 six==1.15.0
 tqdm==4.46.0
 traitlets==4.3.3
+numpy==1.19.0
