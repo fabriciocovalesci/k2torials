@@ -12,7 +12,7 @@ $ pip3 install -r requirements.txt
 ```
 ## Packages Required
 
-* numpy
+* [numpy](https://numpy.org/)
 * scipy
 * matplotlib
 * astropy
